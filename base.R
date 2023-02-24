@@ -1,0 +1,8 @@
+options(stringsAsFactors = F)
+options(scipen = 20)
+options(bitmapType='cairo')
+suppressMessages(library(dplyr))
+suppressMessages(library(parallel))
+suppressMessages(library(ggplot2))
+suppressMessages(library(rlang))
+# suppressMessages(library(extrafont))
